@@ -1,1 +1,1 @@
-# 100DaysOfCode-Beginner
+# 100 Days Of Code - Beginner
