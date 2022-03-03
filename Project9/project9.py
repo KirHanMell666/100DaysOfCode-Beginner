@@ -1,7 +1,7 @@
 players = {}
 loop = True
 
-while (loop):
+while loop:
     name = input("Podaj swoje imie: ")
     bid = int(input("Ile zł oferujesz za ten przedmiot: "))
     players[name] = bid
